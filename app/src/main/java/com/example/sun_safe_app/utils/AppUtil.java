@@ -58,7 +58,7 @@ public class AppUtil {
    * Get timestamp of start of day 00:00:00
    *
    * @param calendar instance of {@link Calendar}
-   * @return timestamp
+   * @return timestamp2
    */
   public static long getStartOfDayTimestamp(Calendar calendar) {
     Calendar newCalendar = Calendar.getInstance(TimeZone.getDefault());
